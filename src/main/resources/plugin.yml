@@ -1,0 +1,6 @@
+name: ReduceMobs
+version: '${project.version}'
+main: com.dxzell.reducemobs.ReduceMobs
+api-version: 1.19
+commands:
+  reduce:
